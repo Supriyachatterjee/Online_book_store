@@ -1,4 +1,4 @@
-// Author constructor function
+
 function Author(name, birthYear, nationality) {
     this.name = name;
     this.birthYear = birthYear;
